@@ -4,8 +4,8 @@ A Batman Roadmap
 
 
 - [x] Day1
-  - [Roasted-sip](https://github.com/champ96k/Flutter-UI-Kit/tree/master/lib/Login/Roasted)
-  - [Roasted-sip](https://github.com/champ96k/Flutter-UI-Kit/tree/master/lib/Login/Roasted)
+  - []()
+  - []()
 - [ ] Day2
   - []()
   - []()
@@ -21,3 +21,4 @@ A Batman Roadmap
 - [ ] Day6
   - []()
   - []()
+- [ ] Day7
