@@ -4,7 +4,7 @@ A Batman Roadmap
 
 
 - [x] Day1
-  - []()
+  - [String Stream](https://github.com/champ96k/120DaysofCode/blob/master/Day1/stream.cpp)
   - []()
 - [ ] Day2
   - []()
