@@ -3,7 +3,6 @@ A Batman Roadmap
 
 
 
-- [x] Day1
   - [Stream](https://github.com/champ96k/120DaysofCode/blob/master/stream.cpp)
   - [struct](https://github.com/champ96k/120DaysofCode/blob/master/struct.cpp)
   - [AddTwoArray](https://github.com/champ96k/120DaysofCode/blob/master/AddTwoArray.cpp)
