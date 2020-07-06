@@ -1,0 +1,34 @@
+//Prime Number
+
+#include<iostream>
+using namespace std;
+
+void prime(int num,int m) {
+
+  int flag=0;
+  
+  for(int=2;i<m;i++) {
+    if(num%i==0) {
+      cout<<num<<" Is Not Prime Number"<<endl;
+      flag=1;
+      break;
+    }
+    
+    if(flag=0) {
+      cout<<num<<" Is Prime Number"<<endl;
+    }
+    
+  }
+}
+
+int main() {
+  
+  int n,m=0;
+  cout<<"Enter Integer Number: ";
+  cin>>n;
+  
+  m=n/2;
+  prime(n,m);
+  
+ return 0;
+}
