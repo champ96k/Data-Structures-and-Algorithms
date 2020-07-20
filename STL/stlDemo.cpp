@@ -1,7 +1,69 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void vectorDemo(){
+void mapDemo() {
+
+   map<int,int>A;
+   
+   //Insert into map
+   A[0]=10;
+   A[1]=50;
+   A[8]=6;
+   A[4]=95;
+   
+   cout<<"Display Map :";
+   for(int i=0; i<A.size();i++) {
+     cout<<A[i]<<endl;
+   }
+  
+  //map<char int>cnt;
+  
+  string x = "Tushar Nikam";
+  
+  for(char c : x) {
+    cnt[c]++;
+  }
+  
+  //find how many time that char occure 
+  cout<<cnt['a']<<" "<<cnt['z']<<endl;
+  
+}
+
+void setDemo() {
+  
+  //set declaration
+  set<int>s;
+  set <int> :: iterator itr; 
+  //set <int, greater <int> > :: iterator itr; 
+  
+  //insert
+  s.insert(120);
+  s.insert(80);
+  s.insert(20);
+  s.insert(120);
+  s.insert(7212);
+  
+  //in set the element is automaticaly sorted
+  // In set does not allow repeted value
+  
+  //Display value
+  cout<<"Display Number :";
+   for (itr = s.begin(); itr != s.end(); ++itr) 
+    {
+      cout << '\n' << *itr; 
+    }
+    
+    //check element is present or not
+    set <int> :: iterator it = s.find(20);       //if 20 is present return that number else return s.end(); element
+    
+    set <int> :: iterator it1 = s.upper_bound(20);
+    set <int> :: iterator it2 = s.lower_bound(0);
+    
+    cout<<"\n*************"<<endl;
+    cout<<*it1<<" "<<*it2<<endl;
+}
+
+void vectorDemo() {
   
   vector<int>v;
   vector<int>::iterator i;
@@ -44,7 +106,9 @@ void vectorDemo(){
 
 int main() {
   
-  vectorDemo();
+  //vectorDemo();
+  //setDemo();
+  mapDemo();
   
   return 0;
 }
