@@ -1,7 +1,7 @@
 # Cracking the Coding Interview
 
 
-######## The full list of topics are as follows:
+#### The full list of topics are as follows:
 
 ##  The Interview Process
 
@@ -69,7 +69,7 @@ This is a critical topic for an interview. In order to optimize your solution, y
   - Examples and Exercises
 
 
-Technical Questions (+ 5 Algorithm Approaches)
+## Technical Questions (+ 5 Algorithm Approaches)
 
 This section covers how to prepare for technical questions (without wasting your time) and teaches actionable ways to solve the trickiest algorithm problems. It also teaches you what exactly "good coding" is when it comes to an interview.
 
