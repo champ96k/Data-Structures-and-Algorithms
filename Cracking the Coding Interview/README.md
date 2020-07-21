@@ -1,7 +1,7 @@
 # Cracking the Coding Interview
 
 
-######## The full list of topics are as follows:
+#### The full list of topics are as follows:
 
 ##  The Interview Process
 
