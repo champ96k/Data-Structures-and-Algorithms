@@ -66,7 +66,9 @@ from the queue q and returns it */
 int pop(queue<int> &q)
 {
   if(!q.empty()) {
-      q.pop();
+    int m=q.front();
+        q.pop();
+        return m;
   } else {
       return -1;
   }
@@ -81,23 +83,17 @@ int getSize(queue<int> &q)
 /*returns the last element of the queue */
 int getBack(queue<int> &q)
 {
-	if(!q.empty()) {
-	    cout<<q.front();
-        q.pop();
-  } else {
-       return -1;
-  }
+	if(q.empty())
+        return -1;
+    return q.back();
   
 }
 
 /*returns the first element of the queue */
 int getFront(queue<int> &q)
 {
-	if(!q.empty()) {
-     q.back();
-  } else {
-     return -1;
-  }
+	if(q.empty())
+        return -1;
+	return q.front();
   
 }
-
