@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+//Not working soluction 
+//This que asked in tcs codevita Aug 2020
 void findMinimumGiftOfEmployess(int _rank[],int nnn,int xxx) {
 
   int sum[xxx],token2;

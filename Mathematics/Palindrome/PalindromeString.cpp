@@ -4,14 +4,18 @@
 #include<string.h>
 using namespace std;
 
+
+
 int main() {
-  
+
+  int t;
+  cin>>t;
+  while(t--) {
   string str;
   int length;
-  cout<<"Enter a String: "<<endl;
-  cin>>str;
+  cin>>length;
   
-  length = str.size();
+  cin>>str;
   
   for(char i=0; i<length;i++) {
     if(str[0]==str[length-1-i]) {
@@ -22,5 +26,9 @@ int main() {
       break;
     }
   }
+  
+  }
+  
+  
  return 0; 
 }
