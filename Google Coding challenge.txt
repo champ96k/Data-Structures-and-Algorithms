@@ -1,0 +1,10 @@
+
+	
+	19/08/2020 : Bitwise Operators
+	20/08/2020 : Strings, Mathematics
+	21/08/2020 : Arrays, STL
+	21/08/2020 : Searching, Sorting
+	  	
+		
+		
+		
