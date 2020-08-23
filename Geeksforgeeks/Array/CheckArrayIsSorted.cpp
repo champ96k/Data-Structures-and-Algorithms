@@ -1,3 +1,6 @@
+
+// check array is sorted or not
+
 #include<bits/stdc++.h>
 using namespace std;
 
