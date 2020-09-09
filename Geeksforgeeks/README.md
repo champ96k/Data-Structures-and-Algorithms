@@ -23,7 +23,7 @@
       - Not
       - Brian Kerningam's Algorithms 
       - ffs()  - return position of first set bit (LSB)
-      - __buildin_popcount(n) - count set Bit
+      - __buitin_popcount(n) - count set Bit
   - Matrix: Search, Delete, Insert, Rotate...
   - Searching: Linear Search, Binary Search, Two pointer approach…
 
