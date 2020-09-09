@@ -3,9 +3,15 @@
 
 
 ### • Week 1
-  [x] Mathematics
-  - Basic Recursion
-  - Arrays: Searching, Sorting, Deleting, Shift, Rotation, Prefix Sum...
+  - [x] Mathematics
+  - [x] Basic Recursion
+  - [x] Arrays: 
+      - Searching
+      - Sorting
+      - Deleting, 
+      - Shift, 
+      - Rotation, 
+      - Prefix Sum
 
 ### • Week 2
   - Bit Magic
