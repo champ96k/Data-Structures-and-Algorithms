@@ -21,7 +21,7 @@
       - Left Shift
       - Right Shift
       - Not
-      - Brian Kerningam's Algorithms (n&(n))
+      - Brian Kerningam's Algorithms 
       - ffs()  - return position of first set bit (LSB)
       - __buildin_popcount(n) - count set Bit
   - Matrix: Search, Delete, Insert, Rotate...
