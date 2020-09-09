@@ -3,7 +3,7 @@
 
 
 ### • Week 1
-  - Mathematics
+  [x] Mathematics
   - Basic Recursion
   - Arrays: Searching, Sorting, Deleting, Shift, Rotation, Prefix Sum...
 
