@@ -14,7 +14,16 @@
       - Prefix Sum
 
 ### • Week 2
-  - Bit Magic
+  - [x] Bit Magic
+      - And
+      - OR
+      - XOR
+      - Left Shift
+      - Right Shift
+      - Not
+      - Brian Kerningam's Algorithms (n&(n))
+      - ffs()  - return position of first set bit (LSB)
+      - __buildin_popcount(n) - count set Bit
   - Matrix: Search, Delete, Insert, Rotate...
   - Searching: Linear Search, Binary Search, Two pointer approach…
 
