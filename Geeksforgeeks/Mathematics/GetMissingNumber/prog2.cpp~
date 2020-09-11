@@ -4,7 +4,7 @@
         i/p => array[] = {'1','3','5','2'};
         o/p => 4
         
-        Method 2:       
+        Method 1:       
                 using XOR
 */
 
