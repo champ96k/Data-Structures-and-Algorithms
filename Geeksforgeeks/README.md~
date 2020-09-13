@@ -3,12 +3,26 @@
 
 
 ### • Week 1
-  - Mathematics
-  - Basic Recursion
-  - Arrays: Searching, Sorting, Deleting, Shift, Rotation, Prefix Sum...
+  - [x] Mathematics
+  - [x] Basic Recursion
+  - [x] Arrays: 
+      - Arrays: What are arrays and why are they used.
+      - Basic Operations: We'll look at basic array operations like insertion, deletion,and reversal.
+      - Shifting and Rotation: How to shift and rotate an array.
+      - Sum Arrays: How do we create a prefix sum array and when do we need it.
+      - Sliding Window: Using the sliding window to improve the complexity of our program.
 
 ### • Week 2
-  - Bit Magic
+  - [x] Bit Magic
+      - And
+      - OR
+      - XOR
+      - Left Shift
+      - Right Shift
+      - Not
+      - Brian Kerningam's Algorithms 
+      - ffs()  - return position of first set bit (LSB)
+      - __buitin_popcount(n) - count set Bit 
   - Matrix: Search, Delete, Insert, Rotate...
   - Searching: Linear Search, Binary Search, Two pointer approach…
 

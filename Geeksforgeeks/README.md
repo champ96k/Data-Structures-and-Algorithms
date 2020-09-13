@@ -6,12 +6,11 @@
   - [x] Mathematics
   - [x] Basic Recursion
   - [x] Arrays: 
-      - Searching
-      - Sorting
-      - Deleting, 
-      - Shift, 
-      - Rotation, 
-      - Prefix Sum
+      - Arrays: What are arrays and why are they used.
+      - Basic Operations: We'll look at basic array operations like insertion, deletion,and reversal.
+      - Shifting and Rotation: How to shift and rotate an array.
+      - Sum Arrays: How do we create a prefix sum array and when do we need it.
+      - Sliding Window: Using the sliding window to improve the complexity of our program.
 
 ### • Week 2
   - [x] Bit Magic
