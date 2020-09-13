@@ -1,6 +1,6 @@
 # Data Structures and Algorithms DSA self paced
 
-
+##  ![GFG Profile](https://auth.geeksforgeeks.org/user/tusharnikam/practice/)
 
 ### • Week 1
   - [x] Mathematics
