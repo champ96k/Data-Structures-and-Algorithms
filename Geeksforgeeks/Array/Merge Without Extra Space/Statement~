@@ -1,0 +1,39 @@
+Given two sorted arrays Arr1[] and Arr2[] in non-decreasing order with size N and M. The task is to merge the two sorted arrays into one sorted array (in non-decreasing order).
+
+Note:  DO NOT use extra space. We need to modify existing arrays as following.
+
+Input: Arr1[] = {10};
+       Arr2[] = {2, 3};
+Output: Arr1[] = {2}
+        Arr2[] = {3, 10}  
+
+Input: Arr1[] = {1, 5, 9, 10, 15, 20};
+       Arr2[] = {2, 3, 8, 13};
+Output: Arr1[] = {1, 2, 3, 5, 8, 9}
+        Arr2[] = {10, 13, 15, 20} 
+Example 1:
+
+Input:
+N = 4, M = 5
+Arr1[] = {1, 3, 5, 7}
+Arr2[] = {0, 2, 6, 8, 9}
+Output: 0 1 2 3 5 6 7 8 9
+Explanation: After merging two non
+decreasing arrays,  we have,
+0 1 2 3 5 6 7 8 9.
+Example 2:
+
+Input:
+N = 2, M = 3
+Arr1[] = {10, 12}
+Arr2[] = {5, 18, 20}
+Output: 5 10 12 18 20
+Explanation: After merging two non
+decreasing arrays, we have, 5 10 12 18 20.
+ 
+
+Your Task:
+Complete the function merge() which takes two arrays arr1, arr2 and two integer n, m, as input parameters and returns void. You don't to print answer or take inputs.
+
+Expected Time Complexity: O((n+m)*log(n+m))
+Expected Auxiliary Space: O(1)
