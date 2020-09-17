@@ -4,13 +4,17 @@
 
 ### • Week 1
   - [x] Mathematics
-  - [x] Basic Recursion
+  - [x] Recursion
+      - **Recursion Basics:** What exactly is recursion and why it's important.
+      - **Advantages:** Why is recursion code easier to write than it's the iterative counterpart.
+      - **Types:** We'll look at head recursion and Tail recursion.
+      - **Problems:** How do we approach a question that is to be solved by recursion.
   - [x] Arrays: 
-      - Arrays: What are arrays and why are they used.
-      - Basic Operations: We'll look at basic array operations like insertion, deletion,and reversal.
-      - Shifting and Rotation: How to shift and rotate an array.
-      - Sum Arrays: How do we create a prefix sum array and when do we need it.
-      - Sliding Window: Using the sliding window to improve the complexity of our program.
+      - **Arrays:** What are arrays and why are they used.
+      - **Basic Operations:** We'll look at basic array operations like insertion, deletion,and reversal.
+      - **Shifting and Rotation:** How to shift and rotate an array.
+      - **Sum Arrays:** How do we create a prefix sum array and when do we need it.
+      - **Sliding Window:** Using the sliding window to improve the complexity of our program.
 
 ### • Week 2
   - [x] Bit Magic
