@@ -4,6 +4,13 @@
 
 ### • Week 1
   - [x] Mathematics
+      - **Series:** We'll learn about the two most important series-AP and GP.
+      - **Equations:** We'll look at the quadratic formula and how to use it to solve quadratic equations.
+      - **Numbers:** Prime numbers and use of sieve of Eratosthenes.
+      - **Multiples and Factors:** What is LCM? How is GCD related to LCM? Other important terms like factors, multiples. Theorems like Euclid's algorithms for GCD, it's an extended version.
+      - **Combinatorics:** What is factorial? We'll learn about permutations and combinations.
+      - **Modular Arithmetic:** Various properties of modular arithmetic.
+
   - [x] Recursion
       - **Recursion Basics:** What exactly is recursion and why it's important.
       - **Advantages:** Why is recursion code easier to write than it's the iterative counterpart.
