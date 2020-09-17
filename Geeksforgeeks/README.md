@@ -43,9 +43,9 @@
       - **Toggling:** We'll toggle the bits.
       - **Bitwise Operators:** We'll use AND, OR, XOR, NOT, LShift, and RSHIFT operators.
       - **Algorithms:** We'll get familiar with various bitwise algorithms that'll make problem solving easy.
-      - **Brian Kerningam's Algorithms **
-      - **ffs() ** - return position of first set bit (LSB)
-      - **__buitin_popcount(n) **- count set Bit 
+      - **Brian Kerningam's Algorithms:**
+      - **ffs()** - return position of first set bit (LSB)
+      - **__buitin_popcount(n)**- count set Bit 
   - Matrix: Search, Delete, Insert, Rotate...
   - Searching: Linear Search, Binary Search, Two pointer approach…
 
