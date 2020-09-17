@@ -4,11 +4,11 @@
 
 ### •
   - [x] Introduction
-      - Asymptotic notations Asymptotic notations are mathematical tools to represent the time complexity of algorithms for asymptotic analysis. The following 3 asymptotic notations are mostly used to represent the time complexity of algorithms
+      - **Asymptotic notations:** Asymptotic notations are mathematical tools to represent the time complexity of algorithms for asymptotic analysis. The following 3 asymptotic notations are mostly used to represent the time complexity of algorithms
          1) Θ Notation: 
          2) Big O Notation: 
          3) Ω Notation: 
-      - We can have three cases to analyze an algorithm:
+      - **We can have three cases to analyze an algorithm:**
           1) Worst Case
           2) Average Case
           3) Best Case
