@@ -40,6 +40,7 @@
 
 ###  
   - [x] Bit Magic
+  
       - **Binary Representation:** We'll look at the binary representation of numbers .
       - **Set and Unset:** We'll learn to set and unset the bits
       - **Toggling:** We'll toggle the bits.
@@ -50,7 +51,7 @@
       - **__buitin_popcount(n)**- count set Bit 
       
 ###  
-  - [x] Searching:  Linear Search, Binary Search, Two pointer approach…                                                                            - 18/09/2020
+  - [ ] Searching:  Linear Search, Binary Search, Two pointer approach…                                                                            - 18/09/2020
       - **Basics:** What exactly is searching and how it's helpful in the programming paradigm.
       - **Types:** We'll look at Linear Search, Binary Search, and Ternary Search.
       -  **Implementation:** How to implement the search algorithms in CPP and Java.
