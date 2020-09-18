@@ -46,8 +46,12 @@
       - **Brian Kerningam's Algorithms:**
       - **ffs()** - return position of first set bit (LSB)
       - **__buitin_popcount(n)**- count set Bit 
+  - [ ] Searching:  Linear Search, Binary Search, Two pointer approach…
+      - **Basics:** What exactly is searching and how it's helpful in the programming paradigm.
+      - **Types:** We'll look at Linear Search, Binary Search, and Ternary Search.
+      -  **Implementation:** How to implement the search algorithms in CPP and Java.
   - Matrix: Search, Delete, Insert, Rotate...
-  - Searching: Linear Search, Binary Search, Two pointer approach…
+
 
 ### • 
   - Sorting: QuickSort and its variation, Mergesort, Counting sort, Insertion Sort, Heap Sort, Comparator
