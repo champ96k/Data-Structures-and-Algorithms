@@ -25,6 +25,19 @@
       - **Combinatorics:** What is factorial? We'll learn about permutations and combinations.
       - **Modular Arithmetic:** Various properties of modular arithmetic.
 
+###  
+  - [x] Bit Magic
+  
+      - **Binary Representation:** We'll look at the binary representation of numbers .
+      - **Set and Unset:** We'll learn to set and unset the bits
+      - **Toggling:** We'll toggle the bits.
+      - **Bitwise Operators:** We'll use AND, OR, XOR, NOT, LShift, and RSHIFT operators.
+      - **Algorithms:** We'll get familiar with various bitwise algorithms that'll make problem solving easy.
+      - **Brian Kerningam's Algorithms:**
+      - **ffs()** - return position of first set bit (LSB)
+      - **__buitin_popcount(n)**- count set Bit 
+
+
   - [x] Recursion
       - **Recursion Basics:** What exactly is recursion and why it's important.
       - **Advantages:** Why is recursion code easier to write than it's the iterative counterpart.
@@ -38,20 +51,9 @@
       - **Sum Arrays:** How do we create a prefix sum array and when do we need it.
       - **Sliding Window:** Using the sliding window to improve the complexity of our program.
 
-###  
-  - [x] Bit Magic
-  
-      - **Binary Representation:** We'll look at the binary representation of numbers .
-      - **Set and Unset:** We'll learn to set and unset the bits
-      - **Toggling:** We'll toggle the bits.
-      - **Bitwise Operators:** We'll use AND, OR, XOR, NOT, LShift, and RSHIFT operators.
-      - **Algorithms:** We'll get familiar with various bitwise algorithms that'll make problem solving easy.
-      - **Brian Kerningam's Algorithms:**
-      - **ffs()** - return position of first set bit (LSB)
-      - **__buitin_popcount(n)**- count set Bit 
       
 ###  
-  - [x] Searching:  Linear Search, Binary Search, Two pointer approach…                                                           *18/09/2020* - *24/09/2020*
+  - [x] Searching:  Linear Search, Binary Search, Two pointer approach                                                    *18/09/2020* - *24/09/2020*
   
       - **Basics:** What exactly is searching and how it's helpful in the programming paradigm.
       - **Types:** We'll look at Linear Search, Binary Search, and Ternary Search.
