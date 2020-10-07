@@ -19,20 +19,14 @@ int main() {
 		cin>>m;
 		sort(a,a+n);
 		
-		long long start = 0,end =0;
+		long long res = a[m-1] - a[0];
 		long long mind = INT_MAX;
-		for(long long i=0;i+m-1<n;i++)
+		for(long long i=1;i+m-1<n;i++)
 		{
-			long long diff = a[i+m-1] - a[i];
-			if(mind>diff)
-			{
-				mind = diff;
-				start = i;
-				end = i+m-1;
-			}
+		    res=min(res,(a[i+m-1]-a[i]));
 		}
-		cout<<a[end]-a[start]<<endl;
-        memset(a, 0, n);
+		
+		cout<<res<<endl;
 	}
 	return 0;
 }
