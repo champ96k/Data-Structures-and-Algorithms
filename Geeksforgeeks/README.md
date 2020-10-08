@@ -53,20 +53,20 @@
 
       
 ###  
-  - [x] Searching:  Linear Search, Binary Search, Two pointer approach                                                    *18/09/2020* - *26/09/2020*
+  - [x] Searching:                                                     *18/09/2020* - *26/09/2020*
   
       - **Basics:** What exactly is searching and how it's helpful in the programming paradigm.
       - **Types:** We'll look at Linear Search, Binary Search, and Ternary Search.
       -  **Implementation:** How to implement the search algorithms in CPP and Java.
       
-  - [x] Sorting:  QuickSort and its variation, Mergesort, Counting sort, Insertion Sort, Heap Sort, Comparator                    *27/09/2020* - *09/10/2020*
+  - [x] Sorting:                    *27/09/2020* - *09/10/2020*
   
       - **Basics:** What exactly is sorting and how it's helpful in the programming paradigm.
       - **Basic Algorithms:** We'll look at bubble sort, insertion sort, selection sort.
       -  **Specialized algorithms:** Quick Sort, Merge Sort, Count Sort, Heap Sort.
       -  **Implementation:** How to use inbuilt CPP and Java sorting functions.
       
-  - Matrix: Search, Delete, Insert, Rotate...
+  - Matrix: Search, Delete, Insert, Rotate
   - Hashing: Different Types of Hashing Techniques, Collision resolution Techniques, Hashing Questions
 
 ###  
