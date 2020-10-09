@@ -1,23 +1,8 @@
-// { Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
 
-void segragate012(int A[], int N);
-
- // } Driver Code Ends
-
-
-// Function to segregate 0s, 1s and 2s
-
-// The function should do the stated modifications in the given array arr[]
-// Do not return anything.
-
-// arr[]: Input Array
-// N: Size of the Array arr[]
-
 void segragate012(int a[], int n)
 {
-    // Your Code Here
     sort(a,a+n);
     int low=0,high=n-1;
     int mid=0;
@@ -37,7 +22,6 @@ void segragate012(int a[], int n)
     }
 }
 
-// { Driver Code Starts
 int main() {
 
     int T;
@@ -63,4 +47,3 @@ int main() {
     }
 
 }
-  // } Driver Code Ends
