@@ -53,13 +53,13 @@
 
       
 ###  
-  - [x] Searching:                                                     *18/09/2020* - *26/09/2020*
+  - [x] Searching:   
   
       - **Basics:** What exactly is searching and how it's helpful in the programming paradigm.
       - **Types:** We'll look at Linear Search, Binary Search, and Ternary Search.
       -  **Implementation:** How to implement the search algorithms in CPP and Java.
       
-  - [x] Sorting:                    *27/09/2020* - *09/10/2020*
+  - [x] Sorting:
   
       - **Basics:** What exactly is sorting and how it's helpful in the programming paradigm.
       - **Basic Algorithms:** We'll look at bubble sort, insertion sort, selection sort.
