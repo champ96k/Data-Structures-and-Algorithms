@@ -131,8 +131,7 @@
     - Aggressive cows
     - Book Allocation Problem
 
-##### EKOSPOJ
-
+- [ ] EKOSPOJ
 
     - Job Scheduling Algo
     - Missing Number in AP
