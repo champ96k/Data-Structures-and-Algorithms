@@ -57,16 +57,25 @@
   
       - **Basics:** What exactly is searching and how it's helpful in the programming paradigm.
       - **Types:** We'll look at Linear Search, Binary Search, and Ternary Search.
-      -  **Implementation:** How to implement the search algorithms in CPP and Java.
+      -  **Implementation:** How to implement the search algorithms in CPP.
       
   - [x] Sorting:
   
       - **Basics:** What exactly is sorting and how it's helpful in the programming paradigm.
       - **Basic Algorithms:** We'll look at bubble sort, insertion sort, selection sort.
       -  **Specialized algorithms:** Quick Sort, Merge Sort, Count Sort, Heap Sort.
-      -  **Implementation:** How to use inbuilt CPP and Java sorting functions.
+      -  **Implementation:** How to use inbuilt CPP sorting functions.
       
-  - Matrix: Search, Delete, Insert, Rotate
+  - [ ] Matrix: 
+  
+    - **Matrix:** The basic definition of the matrix.
+    - **Terminologies:** The various terminologies associated with a matrix.
+    - **Properties:** The most important properties of a matrix like , acommutativessociative, etc.
+    - **Implementation:** How we implement matrix in CPP.
+    - **Operations:** How to add, subtract, and multiply matrices.
+    - **Rotation:** We'll learn the matrix rotation technique.
+      
+
   - Hashing: Different Types of Hashing Techniques, Collision resolution Techniques, Hashing Questions
 
 ###  
