@@ -66,7 +66,7 @@
       -  **Specialized algorithms:** Quick Sort, Merge Sort, Count Sort, Heap Sort.
       -  **Implementation:** How to use inbuilt CPP sorting functions.
       
-  - [ ] Matrix: 
+  - [x] Matrix: 
   
     - **Matrix:** The basic definition of the matrix.
     - **Terminologies:** The various terminologies associated with a matrix.
@@ -75,8 +75,11 @@
     - **Operations:** How to add, subtract, and multiply matrices.
     - **Rotation:** We'll learn the matrix rotation technique.
       
-
-  - Hashing: Different Types of Hashing Techniques, Collision resolution Techniques, Hashing Questions
+  - [ ] Hashing: 
+  
+    - **Basics:** What exactly is the concept of hashing.
+    - **Types:** We'll look at Separate chaining and Open addressing.
+    - **Implementation:**  How to use hashing in CPP.
 
 ###  
   - Strings: Basic Operations, Naive Pattern Search, Other searching algorithms.
