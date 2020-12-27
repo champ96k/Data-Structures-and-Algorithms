@@ -75,7 +75,7 @@
     - **Operations:** How to add, subtract, and multiply matrices.
     - **Rotation:** We'll learn the matrix rotation technique.
       
-  - [ ] Hashing: 
+  - [ ] Hashing:        ---  14/12/2020 
   
     - **Basics:** What exactly is the concept of hashing.
     - **Types:** We'll look at Separate chaining and Open addressing.

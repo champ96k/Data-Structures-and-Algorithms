@@ -25,6 +25,19 @@
       - **Combinatorics:** What is factorial? We'll learn about permutations and combinations.
       - **Modular Arithmetic:** Various properties of modular arithmetic.
 
+###  
+  - [x] Bit Magic
+  
+      - **Binary Representation:** We'll look at the binary representation of numbers .
+      - **Set and Unset:** We'll learn to set and unset the bits
+      - **Toggling:** We'll toggle the bits.
+      - **Bitwise Operators:** We'll use AND, OR, XOR, NOT, LShift, and RSHIFT operators.
+      - **Algorithms:** We'll get familiar with various bitwise algorithms that'll make problem solving easy.
+      - **Brian Kerningam's Algorithms:**
+      - **ffs()** - return position of first set bit (LSB)
+      - **__buitin_popcount(n)**- count set Bit 
+
+
   - [x] Recursion
       - **Recursion Basics:** What exactly is recursion and why it's important.
       - **Advantages:** Why is recursion code easier to write than it's the iterative counterpart.
@@ -38,28 +51,35 @@
       - **Sum Arrays:** How do we create a prefix sum array and when do we need it.
       - **Sliding Window:** Using the sliding window to improve the complexity of our program.
 
-###  
-  - [x] Bit Magic
-  
-      - **Binary Representation:** We'll look at the binary representation of numbers .
-      - **Set and Unset:** We'll learn to set and unset the bits
-      - **Toggling:** We'll toggle the bits.
-      - **Bitwise Operators:** We'll use AND, OR, XOR, NOT, LShift, and RSHIFT operators.
-      - **Algorithms:** We'll get familiar with various bitwise algorithms that'll make problem solving easy.
-      - **Brian Kerningam's Algorithms:**
-      - **ffs()** - return position of first set bit (LSB)
-      - **__buitin_popcount(n)**- count set Bit 
       
 ###  
-  - [x] Searching:  Linear Search, Binary Search, Two pointer approach…                                                           *18/09/2020* - *24/09/2020*
+  - [x] Searching:   
   
       - **Basics:** What exactly is searching and how it's helpful in the programming paradigm.
       - **Types:** We'll look at Linear Search, Binary Search, and Ternary Search.
-      -  **Implementation:** How to implement the search algorithms in CPP and Java.
+      -  **Implementation:** How to implement the search algorithms in CPP.
       
-  - Matrix: Search, Delete, Insert, Rotate...
-  - Sorting: QuickSort and its variation, Mergesort, Counting sort, Insertion Sort, Heap Sort, Comparator
-  - Hashing: Different Types of Hashing Techniques, Collision resolution Techniques, Hashing Questions
+  - [x] Sorting:
+  
+      - **Basics:** What exactly is sorting and how it's helpful in the programming paradigm.
+      - **Basic Algorithms:** We'll look at bubble sort, insertion sort, selection sort.
+      -  **Specialized algorithms:** Quick Sort, Merge Sort, Count Sort, Heap Sort.
+      -  **Implementation:** How to use inbuilt CPP sorting functions.
+      
+  - [x] Matrix: 
+  
+    - **Matrix:** The basic definition of the matrix.
+    - **Terminologies:** The various terminologies associated with a matrix.
+    - **Properties:** The most important properties of a matrix like , acommutativessociative, etc.
+    - **Implementation:** How we implement matrix in CPP.
+    - **Operations:** How to add, subtract, and multiply matrices.
+    - **Rotation:** We'll learn the matrix rotation technique.
+      
+  - [ ] Hashing:        ---  14/12/2020 
+  
+    - **Basics:** What exactly is the concept of hashing.
+    - **Types:** We'll look at Separate chaining and Open addressing.
+    - **Implementation:**  How to use hashing in CPP.
 
 ###  
   - Strings: Basic Operations, Naive Pattern Search, Other searching algorithms.
