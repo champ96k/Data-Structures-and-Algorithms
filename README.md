@@ -36,16 +36,16 @@ Let n be the main variable in the problem.
      
 ##     Complexity	Remarks
 
-    O(1)	      Constant time algorithm, uses a direct formula (no loops)
-    O(log n)	  Logarithmic, often halves the size of the input at each iteration until it reaches 1 (so number of iterations is about log2n)
-    O(√n)   	  Usually a single loop from 1 to √n
-    O(n)	      Usually a single loop from 1 to n
-    O(n log n)	Time complexity of efficient sorting algorithms (n = number of elements)
-    O(n2)	      Usually two nested loops
-    O(n3)	      Usually three nested loops
-    O(2n)	      Often iterates through all subsets of the input elements (which are n in number)
-    O(n!)	      Often iterates through all permutations of the input elements (which are n in number)
-  
+  O(1)	      Constant time algorithm, uses a direct formula (no loops)
+  O(log n)	  Logarithmic, often halves the size of the input at each iteration until it reaches 1 (so number of iterations is about log2n)
+  O(√n)   	  Usually a single loop from 1 to √n
+  O(n)	     Usually a single loop from 1 to n
+  O(n log n)	Time complexity of efficient sorting algorithms (n = number of elements)
+  O(n2)	      Usually two nested loops
+  O(n3)	      Usually three nested loops
+  O(2n)	      Often iterates through all subsets of the input elements (which are n in number)
+  O(n!)	      Often iterates through all permutations of the input elements (which are n in number)
+
 ##### Examples of each common time complexity
 
   -To give a very rough idea consider that 1million instructions will be executed per second. Considering time limit to be 1sec.
