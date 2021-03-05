@@ -10,13 +10,13 @@ void leftRotateByOne(int a[],int n) {
     a[n-1]=temp;
 }
 
-//Function to rotate an array by d elements in counter-clockwise direction. 
+//Function to rotate an array by d elements in counter-clockwise direction.
 void rotateArr(int arr[], int d, int n){
     // code here
     for(int i=0;i<d;i++) {
        leftRotateByOne(arr,n);
     }
-    
+
 }
 
 
@@ -24,23 +24,23 @@ int main() {
 	int t;
 	//taking testcases
 	cin >> t;
-	
+
 	while(t--){
 	    int n, d;
-	    
+
 	    //input n and d
 	    cin >> n >> d;
-	    
+
 	    int arr[n];
-	    
+
 	    //inserting elements in the array
 	    for(int i = 0; i < n; i++){
 	        cin >> arr[i];
 	    }
-	    
+
 	    //calling rotateArr() function
 	    rotateArr(arr, d,n);
-	    
+
 	    //printing the elements of the array
 	    for(int i =0;i<n;i++){
 	        cout << arr[i] << " ";
@@ -48,4 +48,4 @@ int main() {
 	    cout << endl;
 	}
 	return 0;
-} 
+}
