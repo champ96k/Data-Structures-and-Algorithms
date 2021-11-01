@@ -1,4 +1,4 @@
-# Data Structures and Algorithms DSA self paced
+<!-- # Data Structures and Algorithms DSA self paced
 
 - [x] Introduction
 
@@ -129,3 +129,4 @@
 - [ ] Codeforces Contest: **_19 Feb-16 March 2021_**
 
 - [ ] CS Fundamentals Subjects: **_19 Feb-16 March 2021_**
+ -->
