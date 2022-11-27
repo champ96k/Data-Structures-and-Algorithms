@@ -1,7 +1,4 @@
-Hey there!
-Hey there!
-Hey there!
-Hey there!
-Hey there!
-Hey there!
-Hey there!
+Total count of 7328238 is: 7
+Total count of 238238238 is: 9
+Total count of 383283 is: 6
+Total count of 123 is: 3
