@@ -2,23 +2,13 @@
 using namespace std; 
 
 
-int countDigit(int x) {
-
-	int res = 0;
-
-	while(x>0) {
-
-		x = x/10;
-		res++;
-	}
-
-	return res;
-
+ void fun(int a[]) {
+       a[3] = 98;
+    return;
 }
 
-int main() 
-{ 
-	
+int main() {
+
 #ifndef ONLINE_JUDGE 
 	freopen("input.txt", "r", stdin); 
 	freopen("output.txt", "w", stdout); 
@@ -29,13 +19,32 @@ int main()
 
 	while (t--) {
 
-	int n;
-	cin>>n; 
 
-	cout<<"Total count of "<<n<<" is: "<<countDigit(n)<<endl;
+		int arr[5] = {1, 2, 3, 4, 5};
 
-	} 
+		fun(arr);
 
-	cerr << "time taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl; 
-	return 0; 
-} 
+
+		cout<<arr[3]<<endl;
+
+
+
+
+   }
+
+   	cerr << "time taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl; 
+	return 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
