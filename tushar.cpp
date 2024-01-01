@@ -2,26 +2,22 @@
 using namespace std; 
 
 
-int solve(vector<int> &A, int B) {
 
-    int n = A.size();
+int solve(string S) {
 
-    int sum=0;
-    for(int i=0;i<B;i++){
-        sum += A[i];
-    }
+	int count = 0;
+	int n = S.size();
 
-    int index=0;
-    int ans=sum;
-    for(int i=1;i<n-B+1;i++){
-        sum += A[i+B-1]-A[i-1];
-        if(sum<ans){
-            ans = sum;
-            index=i;
-        }
-    }
-    return index;
+	for(int i=0;i<n-2;i++) {
+		
+		if(S[i]=='b' && S[i+1]=='o' && S[i+2]=='b') {
+			count++;
+		}
+	}
+
+	return count;
 }
+
 
 
 int main() {
@@ -36,10 +32,12 @@ int main() {
 
 	while (t--) {
 
-		vector<int> A = {3, 7, 90, 20, 10, 50, 40};
-		int B = 3;
+		string s;
+		cin>>s;
 
-		cout<<solve(A,B)<<endl;
+		cout<<solve(s)<<endl;
+
+
 
 	}
 
