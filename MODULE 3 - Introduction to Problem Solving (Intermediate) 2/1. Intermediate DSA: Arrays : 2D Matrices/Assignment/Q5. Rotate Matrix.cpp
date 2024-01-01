@@ -69,3 +69,29 @@
 //  2 goes to 6, 6 goes to 8
 //  9 goes to 7, 7 goes to 1
 //  8 goes to 4, 4 goes to 2
+
+
+
+void Solution::solve(vector<vector<int> > &A) {
+
+    //transpose of the matrix
+    for(long i = 0;i<A.size();i++){
+        for(long j = 0;j<A[i].size();j++){
+            if(i == j){
+                break;
+            }
+            swap(A[i][j],A[j][i]);
+        }
+    }
+	// reverse row wise row in matrix
+    for (long i = 0; i < A.size(); i++) {
+        long s = 0;
+        long e = A[i].size()-1;
+        while(s<e)
+        {
+         swap(A[i][s],A[i][e]);
+         s++;e--;
+        }
+    }
+}
+

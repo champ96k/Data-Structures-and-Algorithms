@@ -54,3 +54,20 @@
 
 // Expected Output
 // Provide sample input and click run to see the correct output for the provided input. Use this to improve your problem understanding and test edge cases
+
+
+vector<vector<int> > Solution::solve(vector<vector<int> > &A) {
+
+    int rows = A.size();
+    int cols = A[0].size();
+
+    vector<int> v(rows);
+    vector<vector<int>> B(cols, v);
+    
+    for (int i=0;i<rows;i++) {
+        for (int j=0;j<cols;j++) {
+            B[j][i] = A[i][j];
+        }
+    }
+    return B;
+}
