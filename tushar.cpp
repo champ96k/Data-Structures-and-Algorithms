@@ -1,6 +1,34 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+void solve() {
+
+	string str;
+	cin>>str;
+
+	int n = str.size();
+
+	if(n>10) {
+		cout<<str[0]<<n-2<<str[n-1]<<endl;
+	} else {
+		cout<<str<<endl;
+	}
+
+	return;
+
+}
+
+
+
+
+
+
+
+
+
+
+
 int main() {
 
 #ifndef ONLINE_JUDGE
@@ -10,14 +38,11 @@ int main() {
 	freopen("output.txt","w",stdout);
 #endif
 
-
 	int t;
 	cin>>t;
 
-	
-
 	while(t--) {
-		cout<<"Heyy Hello: "<<t+1<<endl;
+		solve();
 	}
 	
 	return 0;
