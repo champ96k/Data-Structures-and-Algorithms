@@ -1,10 +1,3 @@
-#include <bits/stdc++>
-using namespace std;
-
-int main() {
-cout << "Hello World";
-return 0;
-}
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -21,9 +14,12 @@ int main() {
 	int t;
 	cin>>t;
 
+	
+
 	while(t--) {
-		cout<<t<<endl;
+		cout<<"Heyy Hello: "<<t+1<<endl;
 	}
 	
 	return 0;
 }
+
