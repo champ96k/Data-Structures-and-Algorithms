@@ -12,21 +12,12 @@ void solve() {
 	if(n>10) {
 		cout<<str[0]<<n-2<<str[n-1]<<endl;
 	} else {
-		cout<<str;
+		cout<<str<<endl;
 	}
 
 	return;
 
 }
-
-
-
-
-
-
-
-
-
 
 
 int main() {
