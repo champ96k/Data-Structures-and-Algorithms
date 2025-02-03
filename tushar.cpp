@@ -4,29 +4,26 @@ using namespace std;
 
 void solve() {
 
-	string str;
-	cin>>str;
+	int mat[5][5];
 
-	int n = str.size();
+	for(int i=0;i<5;i++) {
+		for(int j=0;j<5;j++) {
+			int x ;
+			cin>>x;
+			mat[i][j]=x;
+		}
+	} 
 
-	if(n>10) {
-		cout<<str[0]<<n-2<<str[n-1]<<endl;
-	} else {
-		cout<<str<<endl;
-	}
-
-	return;
+	for(int i=0;i<5;i++) {
+		for(int j=0;j<5;j++) {
+			if(mat[i][j]>0) {
+				cout<<abs(i-j)<<endl;
+				break;
+			}
+		}
+	} 
 
 }
-
-
-
-
-
-
-
-
-
 
 
 int main() {
@@ -38,13 +35,15 @@ int main() {
 	freopen("output.txt","w",stdout);
 #endif
 
-	int t;
-	cin>>t;
+	// int t;
+	// cin>>t;
 
-	while(t--) {
+	// while(t--) {
 		solve();
-	}
+	// }
 	
 	return 0;
 }
+
+
 
